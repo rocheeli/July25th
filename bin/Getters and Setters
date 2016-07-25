@@ -1,0 +1,175 @@
+1) The size of a disk file
+
+private float diskSize;
+public void setDiskSize(float diskSize)
+{
+	this.diskSize = diskSize;
+	}
+public float  getDiskSize()
+{
+	return diskSize;
+}
+
+
+2) The number of acres in a plot of land
+
+private Integer  plotAcres;
+
+public void setPlotAcres(Integer plotAcres)
+{
+    this.plotAcres = plotAcres;
+}
+
+public Integer getPlotAcres()
+{
+    return plotacres;
+}
+
+3) The name of a file
+
+private String fileName;
+
+public void setFileName(String filetName)
+{
+    this.fileName = fileName;
+}
+
+public String getFileName()
+{
+    return fileName;
+}
+
+4) A fully formatted phone number (i.e. "801-803-3638")
+
+private String phoneNumber;
+
+public void setPhoneNumber(String phoneNumber)
+{
+    this.phoneNumber = phoneNumber;
+}
+
+public String getPhoneNumber()
+{
+    return phoneNumber;
+}
+
+5) A company name
+
+private String companyName;
+
+public void setCompanyName(String companyName)
+{
+    this.companyName = companyName;
+}
+
+public String getCompanyName()
+{
+    return companyName;
+}
+
+6) Today's date
+
+
+private Date TodaysDate;
+
+public void setTodaysDate(Date todaysDate)
+{
+    this.todaysDate = todaysDate;
+}
+
+public Date getTodaysDate()
+{
+    return todaysDate;
+}
+
+7) The state of a light switch
+
+private boolean stateOfLightSwitch;
+
+public void setStateOfLightSwitch(Boolean stateOfLightSwitch)
+{
+    this.stateOfLightSwitch = stateOfLightSwitch;
+}
+
+public Boolean getStateOfLightSwitch()
+{
+    return stateOfLightSwitch;
+}
+
+8) Pi
+
+private double pi;
+
+public void setPi(double pi)
+{
+    this.pi = pi;
+}
+
+public double getPi()
+{
+    return pi;
+}
+
+
+
+9) The speed of light in a vacuum
+
+private float speedOfLight;
+
+public void setSpeedofLight(float speedOfLight)
+{
+    this.speedOfLight = speedOfLight;
+}
+
+public float getSpeedOfLight()
+{
+    return speedOfLight;
+}
+
+10) An instance of a class named Vehicle
+
+
+private String vehicle;
+
+public void setVehicle(String vehicle)
+{
+    this.vehicle = vehicle;
+}
+
+public String getvehicle()
+{
+    return vehicle;
+}
+
+11) An instance of a class named Address
+
+
+private String address;
+
+public void setAddress(String address)
+{
+    this.address = address;
+}
+
+public String getaddress()
+{
+    return address;
+}
+
+12) An array of instances of a class named Product
+
+
+private String[] product;
+
+public void setProduct(String[] product)
+{
+    this.product = product;
+}
+
+public String[] getProduct()
+{
+    return product;
+}
+
+
+
